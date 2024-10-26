@@ -10,7 +10,7 @@ Fare Insights: Investigated ticket fare distributions across classes and their c
 Class Comparison: Compared survival outcomes and demographic distributions across passenger classes.
 
 Skills and Tools:
-SQL Techniques: Used filtering, grouping, joins, aggregate functions, and subqueries for data analysis.
+SQL Techniques: Used filtering, grouping, aggregate functions, and subqueries for data analysis.
 Database Management: Efficiently handled and queried a large dataset in MySQL.
 Data Insights: Extracted insights to understand the survival patterns and demographic effects on survival rates.
 
